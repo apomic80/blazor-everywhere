@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "blzwasm.Server", "blzwasm\S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "blzmvc", "blzmvc\blzmvc.csproj", "{DC3F0FEE-9B25-4900-A161-737139E7F91F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "blzwinforms", "blzwinforms\blzwinforms.csproj", "{D2F9DD69-BA5C-4E7E-8997-D1C8E07EF7D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "blzwpf", "blzwpf\blzwpf.csproj", "{88886C2C-DEC1-4B9F-BADD-3B558ACCDB13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{DC3F0FEE-9B25-4900-A161-737139E7F91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC3F0FEE-9B25-4900-A161-737139E7F91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC3F0FEE-9B25-4900-A161-737139E7F91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F9DD69-BA5C-4E7E-8997-D1C8E07EF7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F9DD69-BA5C-4E7E-8997-D1C8E07EF7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F9DD69-BA5C-4E7E-8997-D1C8E07EF7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F9DD69-BA5C-4E7E-8997-D1C8E07EF7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88886C2C-DEC1-4B9F-BADD-3B558ACCDB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88886C2C-DEC1-4B9F-BADD-3B558ACCDB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88886C2C-DEC1-4B9F-BADD-3B558ACCDB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88886C2C-DEC1-4B9F-BADD-3B558ACCDB13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
